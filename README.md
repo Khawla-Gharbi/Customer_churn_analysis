@@ -1,1 +1,2 @@
 # Customer_churn_analysis
+This project involves building a machine learning model to predict customer churn for a retail business. Using the Telco Customer Churn dataset, the workflow includes data preprocessing, exploratory data analysis (EDA), and feature engineering. A Random Forest Classifier was implemented, achieving an accuracy of ~85%. The project also highlights feature importance and provides actionable insights for customer retention strategies. Tools used include Python (pandas, scikit-learn, matplotlib, seaborn), and Jupyter Notebook.
